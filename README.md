@@ -1,7 +1,7 @@
 # Dresses100
 Folder contains 100 dress images random sampled  from cleanedimages repository.
  
-Access Google Colab notebook for the GAN results using 100 dress images via https://colab.research.google.com/drive/1whOCmN-QYDNo-pEFMNdmpbwp2mleztsC
+Access Google Colab notebook for the GAN results using 100 dress images via https://colab.research.google.com/drive/1whOCmN-QYDNo-pEFMNdmpbwp2mleztsC?usp=sharing
 
 ## Sample of generated images prior to convergence failure near 680 epochs 
 ### Similar images are generated, mode collapse
